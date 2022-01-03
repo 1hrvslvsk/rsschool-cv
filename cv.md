@@ -3,10 +3,10 @@
 ## Contacts
   t.me/vcnspxt
   
-### Why do I study programming?
+## Why do I study programming?
   So that I can start programming.
 
-#### Skills
+## Skills
 <ul> 
   <li>HTML</li>
   <li>CSS</li>
@@ -14,10 +14,10 @@
   <li>Git</li>
 </ul>
 
-##### Code:<a href="https://github.com/1hrvslvsk"> GitHub Link</a>
+## Code:<a href="https://github.com/1hrvslvsk"> GitHub Link</a>
 
-###### No experience
+## No experience
 
-####### Education: intercultural communications specialist
+## Education: intercultural communications specialist
 
-######## English level: C1
+## English level: C1
