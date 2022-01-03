@@ -4,7 +4,7 @@
   t.me/vcnspxt
   
 ### Why do I study programming?
-  So that I can programm.
+  So that I can start programming.
 
 #### Skills
 <ul> 
@@ -18,3 +18,6 @@
 
 ###### No experience
 
+####### Education: intercultural communications specialist
+
+######## English level: C1
